@@ -151,7 +151,7 @@ binary_sensor:
 
 output:
   - platform: ledc
-    pin: GPIO47
+    pin: GPIO45
     id: backlight_output
 
 light:
